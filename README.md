@@ -9,6 +9,7 @@ Much of it has been referenced in https://github.com/SeanNaren/deepspeech.pytorc
 Authors
 ---
 Jaesung Bae: bjs2279@gmail.com / bjsd3@kaist.ac.kr
+
 Minsung Kang: minsung2646@kaist.ac.kr
 
 
