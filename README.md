@@ -4,7 +4,8 @@ DeepSpeech2 Model for Korean Keyword Recognition task. This work was for the fin
 
 References
 ---
-Much of it has been referenced in https://github.com/SeanNaren/deepspeech.pytorch
+Most of it has been referenced in https://github.com/SeanNaren/deepspeech.pytorch
+* Amodei, Dario, et al. "Deep speech 2: End-to-end speech recognition in english and mandarin." International Conference on Machine Learning. 2016.
 
 Authors
 ---
